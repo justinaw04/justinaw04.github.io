@@ -1,27 +1,13 @@
 <!-- Headings -->
 # Justina Wang
-### University of Wisconsin Madison
-
-<!-- Italics -->
-*This text* is italic
-
-_This text_ is italic
-
-<!-- Strong -->
-**This text** is italic
-
-__This text__ is italic
-
-<!-- Strikethrough -->
-~~This text~~ is strikethrough
+#### University of Wisconsin Madison
 
 <!-- Horizontal Rule -->
-
----
 ___
 
-<!-- Blockquote -->
-> This is a quote
+[BuzzBand and Lemelson-MIT](http://girlsofsteelrobotics.com/gos-buzzband/)
+
+
 
 <!-- Links -->
 [Traversy Media](http://www.traversymedia.com)
