@@ -6,9 +6,8 @@
 ___
 
 ## Links
-[BuzzBand and Lemelson-MIT](http://girlsofsteelrobotics.com/gos-buzzband/)
-### 
-[Girls of Steel and FIRST Robotics](http://girlsofsteelrobotics.com/blog/)
+* [BuzzBand and Lemelson-MIT](http://girlsofsteelrobotics.com/gos-buzzband/)
+* [Girls of Steel and FIRST Robotics](http://girlsofsteelrobotics.com/blog/)
 
 
 
