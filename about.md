@@ -1,18 +1,11 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Hello, this is a test
+Hello, welcome to my page!
 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+This website shows some of my random stuff in programming, robotics, and other cool parts of my life. 
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
-
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I was born in Berkeley, California, grew up in Pittsburgh, Pennslyvania, and now live in Madison, Wisconsin. In high school, I was a member and lead of [Girls of Steel](http://girlsofsteelrobotics.com/blog/), an all girls robotics team at Carnegie Mellon University. 

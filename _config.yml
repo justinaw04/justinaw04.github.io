@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "email:"
 
 email: "wangjustina.gos@gmail.com"
 #blog logo
-logo: "/assets/images/df_logo.png"
+logo: "/assets/images/favicon.png"
 float_logo: true # true, false (default)
 
 # blog cover
@@ -22,7 +22,7 @@ author_image: "/assets/images/myface.png"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "https://justinaw04.github.io./" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@dirkfabisch'
