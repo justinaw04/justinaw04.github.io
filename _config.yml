@@ -4,21 +4,21 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Justina Wang"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Computer Science Undergrad at University of Wisconsin-Madison
 
-email: a-mail@mail.mail
+email: "wangjustina.gos@gmail.com"
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/df_logo.png"
 float_logo: true # true, false (default)
 
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
-author_image: "/assets/images/author.jpg"
+name: 'Justina Wang'
+author: 'Justina Wang'
+author_image: "/assets/images/myface.png"
 
 paginate:	5
 
