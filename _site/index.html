@@ -1,33 +1,157 @@
-<ol class="post-card-box clearfix">
+<!DOCTYPE html>
+<html>
 
-<li>
-<div class="post-card">
-<a href="https://justinaw04.github.io/mediator/feature/2022/06/17/mediator_features.html" class="post-card-image" style="background-image: url( https://justinaw04.github.io/assets/img/ )">
-</a>
+  <head>
+  <meta charset="utf-8">
+  <!-- (1) Optimize for mobile versions: http://goo.gl/EOpFl -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- (1) force latest IE rendering engine: bit.ly/1c8EiC9 -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<div class="post-card-body">
+  <title>Justina Wang</title>
+  <meta name="description" content="Computer Science Undergrad at University of Wisconsin-Madison
+" />
 
-<a href="https://justinaw04.github.io/tags#featured" class="tag">|&#32;featured</a>
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="MobileOptimized" content="320" />
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  
+  
+  <meta property="og:site_name" content="Justina Wang" />
+  <meta property="og:title" content="Justina Wang"/>
+  
+  <meta property="og:description" content="Computer Science Undergrad at University of Wisconsin-Madison" />
+  
+  <meta property="og:image" content="https://justinaw04.github.io/assets/images/favicon.png" />
+  <meta property="og:url" content="https://justinaw04.github.io/" >
+  <meta property="og:type" content="blog" />
+  
 
-<a href="https://justinaw04.github.io/mediator/feature/2022/06/17/mediator_features.html" class="post-card-link"><h3 class="post-card-title">EurekaFest at MIT</h3></a>
+  <link rel="canonical" href="https://justinaw04.github.io/"/>
+  <link rel="shortcut icon" href="/assets/images/favicon.png" type="image/png"/>
+  <link rel="stylesheet" href="//brick.a.ssl.fastly.net/Linux+Libertine:400,400i,700,700i/Open+Sans:400,400i,700,700i">
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+  <link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
+  <link rel="stylesheet" type="text/css" media="print" href="/css/print.css" />
+</head>
+
+
+  <body>
+
+    <!-- header start -->
+
+
+  <a href="https://justinaw04.github.io" class="logo-readium"><span class="logo" style="background-image: url(/assets/images/favicon.png)"></span></a>
+
+<!-- header end -->
+
+
+    <!-- content start -->
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="teaserimage">
+    <div class="teaserimage-image" style="background-image: url(/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg)">
+        Teaser Image
+    </div>
 </div>
 
-</div>
-</li>
+<header class="blog-header">
+    
+      <a class="blog-logo" href="https://justinaw04.github.io" style="background-image: url('/assets/images/favicon.png')">Justina Wang</a>
+    
+    <h1 class="blog-title">Justina Wang</h1>
+    <h2 class="blog-description">Computer Science Undergrad at University of Wisconsin-Madison
+</h2>
+    <div class="custom-links">
+      
+      <a href=/about/>About</a>
+    </div>
+</header>
 
-<li>
-<div class="post-card">
-<a href="https://justinaw04.github.io/jekyll/update/2014/08/29/welcome-to-jekyll.html" class="post-card-image" style="background-image: url( https://justinaw04.github.io/assets/img/ )">
-</a>
 
-<div class="post-card-body">
+<main class="content" role="main">
 
-<a href="https://justinaw04.github.io/tags#featured" class="tag">|&#32;featured</a>
+    
 
-<a href="https://justinaw04.github.io/jekyll/update/2014/08/29/welcome-to-jekyll.html" class="post-card-link"><h3 class="post-card-title">Welcome to Jekyll!</h3></a>
-</div>
+    <div class="cf frame">
+      
+    </div>
 
-</div>
-</li>
+    <nav class="pagination" role="navigation">
+      
+      <span class="page-number">Page  of </span>
+      
+    </nav>
 
-</ol>
+
+    <!-- 
+     -->
+
+</main>
+
+      </div>
+    </div>
+
+    <!-- content end -->
+
+    <!-- footer start -->
+
+<footer class="site-footer">
+  <a class="subscribe" href="/feed.xml"> <span class="tooltip"> <i class="fa fa-rss"></i> Subscribe!</span></a>
+    <div class="inner">
+         <section class="copyright">All content copyright <a href="mailto:wangjustina.gos@gmail.com">Justina Wang</a> &copy; 2022 &bull; All rights reserved.</section>
+         <section class="poweredby">Made with <a href="http://jekyllrb.com"> Jekyll</a></section>
+    </div>
+</footer>
+
+<!-- footer end -->
+
+    <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
+<script type="text/javascript" src="/assets/js/index.js"></script>
+<script type="text/javascript" src="/assets/js/readingTime.min.js"></script>
+<script>
+(function ($) {
+  "use strict";
+  $(document).ready(function(){
+
+    var $window = $(window),
+    $image = $('.post-image-image, .teaserimage-image');
+    
+      $window.on('scroll', function() {
+        var top = $window.scrollTop();
+
+        if (top < 0 || top > 1500) { return; }
+        $image
+          .css('transform', 'translate3d(0px, '+top/3+'px, 0px)')
+          .css('opacity', 1-Math.max(top/700, 0));
+      });
+      $window.trigger('scroll');
+
+      var height = $('.article-image').height();
+      $('.post-content').css('padding-top', height + 'px');
+
+      $('a[href*=#]:not([href=#])').click(function() {
+        if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')
+         && location.hostname == this.hostname) {
+          var target = $(this.hash);
+          target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+          if (target.length) {
+            $('html,body').animate({ scrollTop: target.offset().top }, 500);
+            return false;
+          }
+        }
+      });
+
+  });
+}(jQuery));
+</script>
+
+
+
+  </body>
+
+</html>
