@@ -3,11 +3,12 @@
   <channel>
     <title>Justina Wang</title>
     <description>Computer Science Undergrad at University of Wisconsin-Madison
+Thanks for stopping by!
 </description>
     <link>https://justinaw04.github.io/</link>
     <atom:link href="https://justinaw04.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 16 Oct 2022 19:51:32 -0500</pubDate>
-    <lastBuildDate>Sun, 16 Oct 2022 19:51:32 -0500</lastBuildDate>
+    <pubDate>Sun, 16 Oct 2022 19:54:50 -0500</pubDate>
+    <lastBuildDate>Sun, 16 Oct 2022 19:54:50 -0500</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
@@ -15,15 +16,9 @@
         <description>&lt;p&gt;tbd&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Oct 2022 19:44:00 -0500</pubDate>
-        <link>https://justinaw04.github.io/mediator/feature/2022/10/01/first-month-in-madison.html</link>
-        <guid isPermaLink="true">https://justinaw04.github.io/mediator/feature/2022/10/01/first-month-in-madison.html</guid>
+        <link>https://justinaw04.github.io/2022/10/01/first-month-in-madison.html</link>
+        <guid isPermaLink="true">https://justinaw04.github.io/2022/10/01/first-month-in-madison.html</guid>
         
-        <category>featured</category>
-        
-        
-        <category>mediator</category>
-        
-        <category>feature</category>
         
       </item>
     
@@ -39,15 +34,9 @@
 
 </description>
         <pubDate>Fri, 17 Jun 2022 09:34:25 -0500</pubDate>
-        <link>https://justinaw04.github.io/mediator/feature/2022/06/17/eurekafest-at-mit.html</link>
-        <guid isPermaLink="true">https://justinaw04.github.io/mediator/feature/2022/06/17/eurekafest-at-mit.html</guid>
+        <link>https://justinaw04.github.io/2022/06/17/eurekafest-at-mit.html</link>
+        <guid isPermaLink="true">https://justinaw04.github.io/2022/06/17/eurekafest-at-mit.html</guid>
         
-        <category>featured</category>
-        
-        
-        <category>mediator</category>
-        
-        <category>feature</category>
         
       </item>
     
