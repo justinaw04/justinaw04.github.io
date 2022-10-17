@@ -3,7 +3,6 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-
 Hello, welcome to my page!
 
 This website shows some of my random stuff in programming, robotics, and other cool parts of my life. 

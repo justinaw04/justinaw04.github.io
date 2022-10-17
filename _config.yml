@@ -23,7 +23,7 @@ author_image: "/assets/images/jw.png"
 paginate:	5
 
 url: "https://justinaw04.github.io" # the base hostname & protocol for your site
-baseurl: "https://justinaw04.github.io"
+baseurl: ""
 #used to display twitter cards
 #twitter_handle: '@dirkfabisch'
 
