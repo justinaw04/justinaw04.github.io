@@ -449,7 +449,7 @@ ninja.data = [{
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-graduated-from-uw-madison",
-          title: 'Graduated from UW-Madison',
+          title: 'Graduated from UW-Madison 🦡',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
