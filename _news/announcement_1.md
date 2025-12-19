@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Graduated from UW-Madison 🦡
+Graduated from UW-Madison :badger:
