@@ -445,8 +445,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-graduated-from-uw-madison",
-          title: 'Graduated from UW-Madison 🦡',
+            },},{id: "news-graduated-from-uw-madison-badger",
+          title: 'Graduated from UW-Madison :badger:',
           description: "",
           section: "News",},{id: "news-started-phd-at-northwestern-university",
           title: 'Started PhD at Northwestern University!',
