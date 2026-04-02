@@ -1,3 +1,3 @@
-Hello! I am a first year Ph.D. student in **Computer Science and Learning Sciences at Northwestern University**. I am interested in exploring the intersection of human-computer interaction and pedagogy to design more equitable and engaging learning environments.
+Hello! I am a first year Ph.D. student in computer science and learning sciences at Northwestern University, advised by Prof. Matthew Easterday in the Delta Lab. I am an HCI and design-based researcher interested in creating technology and systems to support students in developing civic engagement skills and driving organizational change.
 
 In May 2025, I graduated with honors from UW-Madison with a degree in Computer Science and a minor in Educational Sciences. During my time as an undergraduate researcher, I focused on designing social robots and interfaces for family and home-based learning.
