@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A paper led by Hui-Ru Ho (UW-Madison) on social robots for homework accepted to IDC 2026!
+A paper led by Hui-Ru Ho (UW-Madison) on social robots for homework accepted to IDC 2026
