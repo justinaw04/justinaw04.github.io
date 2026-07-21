@@ -25,6 +25,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Hello! I am a first year Ph.D. student in computer science and learning sciences at Northwestern University, advised by Prof. Matthew Easterday in the Delta Lab. I am an HCI and design-based researcher interested in creating technology and systems to support group collaboration and organizing.
+Hello! I am a first year Ph.D. student in computer science and learning sciences at Northwestern University, advised by Prof. Matthew Easterday in the Delta Lab. I am an HCI and design-based researcher interested in creating technology and systems to support students in developing leadership and civic engagement skills.
 
 In May 2025, I graduated with honors from UW-Madison with a degree in Computer Science and a minor in Educational Sciences. During my time as an undergraduate researcher, I focused on designing social robots and interfaces for family and home-based learning.
