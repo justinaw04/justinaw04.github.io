@@ -2,6 +2,18 @@
  * CV shared styles
  *****************************/
 
+div.cv-pdf-embed {
+  width: 100%;
+  height: 85vh;
+
+  embed {
+    width: 100%;
+    height: 100%;
+    border: 1px solid var(--global-divider-color);
+    border-radius: 0.25rem;
+  }
+}
+
 div.container-link-button {
   margin-right: 0.5rem;
 }
